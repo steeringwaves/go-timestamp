@@ -1,6 +1,6 @@
 # go-timestamp
-
-![workflow](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
+![workflow](https://github.com/steeringwaves/go-timestamp/actions/workflows/test.yml/badge.svg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/steeringwaves/go-timestamp.svg)](https://pkg.go.dev/github.com/steeringwaves/go-timestamp)
 
 ## usage
 
